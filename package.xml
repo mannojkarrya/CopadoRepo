@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>cust2_26sep23__c.f2lm__c</members>
+        <members>Test15_26sep23__c.Test5__c</members>
         <name>CustomField</name>
     </types>
     <types>
-        <members>cust2_26sep23__c</members>
+        <members>Test15_26sep23__c</members>
         <name>CustomObject</name>
     </types>
     <types>
-        <members>cust2_26sep23__c-cust2_26sep23 Layout</members>
+        <members>Test15_26sep23__c-Test15_26sep23 Layout</members>
         <name>Layout</name>
     </types>
     <version>58.0</version>
