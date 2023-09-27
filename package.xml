@@ -1,33 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>TestAccount__c.Account_Category__c</members>
-        <members>TestAccount__c.Account_Location__c</members>
-        <members>TestAccount__c.Account_No__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>TestAccount__c.Account_No__c</members>
-        <name>CustomIndex</name>
-    </types>
-    <types>
-        <members>TestAccount__c</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>TestAccount__c</members>
-        <name>CustomTab</name>
-    </types>
-    <types>
-        <members>TestAccount__c-TestAccount Layout</members>
-        <name>Layout</name>
-    </types>
-    <types>
-        <members>TestAccount__c.All</members>
-        <name>ListView</name>
+        <members>Case_Feed</members>
+        <members>sf_devops_InitializeEnvironments</members>
+        <members>sf_devops_NamedCredentials</members>
+        <members>sf_devops__DevOps_Center</members>
+        <members>sf_devops__DevOps_CenterManager</members>
+        <members>sf_devops__DevOps_CenterRelease</members>
+        <members>sfdcInternalInt__sfdc_scrt2</members>
+        <name>PermissionSet</name>
     </types>
     <types>
         <members>Admin</members>
+        <members>Analytics Cloud Integration User</members>
+        <members>Analytics Cloud Security User</members>
+        <members>CPQ Integration User</members>
+        <members>Chatter External User</members>
+        <members>Chatter Free User</members>
+        <members>Chatter Moderator User</members>
+        <members>Company Communities User</members>
+        <members>ContractManager</members>
+        <members>Guest License User</members>
+        <members>High Volume Customer Portal User</members>
+        <members>Identity User</members>
+        <members>MarketingProfile</members>
+        <members>Minimum Access - Salesforce</members>
+        <members>Read Only</members>
+        <members>Salesforce API Only System Integrations</members>
+        <members>ServiceCloud</members>
+        <members>SolutionManager</members>
+        <members>Standard</members>
+        <members>Trial Customer Portal User</members>
         <name>Profile</name>
     </types>
     <version>58.0</version>
